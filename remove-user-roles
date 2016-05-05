@@ -1,0 +1,5 @@
+// REMOVE UNNECESSARY ROLES
+remove_role('subscriber');
+remove_role('editor');
+remove_role('author');
+remove_role('contributor');
